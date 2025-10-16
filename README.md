@@ -3,10 +3,8 @@ I am a current Computing and Financial Management (CFM) student at the Universit
 
 I’m passionate about building innovative tools, learning cutting-edge technologies, and applying them to solve meaningful challenges. Whether it’s designing efficient backend systems, creating user-friendly interfaces, or exploring new technologies, I’m constantly pushing myself to grow as a developer and innovator.
 
-💻 Tech Interests: Full-stack development, algorithmic problem-solving, fintech applications, machine learning, AI, and scalable systems. 
-
-🚀 Currently: Expanding my skills through academic projects, personal experiments, and preparing for upcoming co-op opportunities.
-
+💻 Tech Interests: Full-stack development, algorithmic problem-solving, fintech applications, machine learning, AI, and scalable systems.<br/>
+🚀 Currently: Expanding my skills through academic projects, personal experiments, and preparing for upcoming co-op opportunities.<br/>
 🤝 Open to: Collaborations, internships, and innovative projects that challenge the norm.
 
 Outside of coding, I enjoy staying curious, learning from others, and contributing to impactful communities.
