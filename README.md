@@ -1,14 +1,13 @@
-# 👋 Hey there! I’m Rahim Rehan!
-I am a current Computing and Financial Management (CFM) student at the University of Waterloo. My interests lie at the crossroads of software engineering, finance, entrepreneurship, and emerging technologies like AI and machine learning.
+# 👋 Hey there! I’m Rahim!
+I am a current Computing and Financial Management (CFM) student at the University of Waterloo. My interests lie at the crossroads of software engineering, forward deployed engineering, entrepreneurship, and emerging technologies like AI and Machine Learning.
 
-I’m passionate about building innovative tools, learning cutting-edge technologies, and applying them to solve meaningful challenges. Whether it’s designing efficient backend systems, creating user-friendly interfaces, or exploring new technologies, I’m constantly pushing myself to grow as a developer and innovator.
+I’m passionate about building innovative tools, learning cutting-edge technologies, and applying them to solve meaningful challenges. Whether it’s designing efficient backend systems, creating user-friendly interfaces, or exploring new technologies, I’m constantly pushing myself to grow as a developer and innovator, and I care a lot about the last mile: taking something from "it works on my machine" to something a real user actually relies on.
 
-💻 Tech Interests: Full-stack development, algorithmic problem-solving, fintech applications, machine learning, AI, and scalable systems.<br/>
-🚀 Currently: Expanding my skills through academic projects, personal experiments, and preparing for upcoming co-op opportunities.<br/>
-🤝 Open to: Collaborations, internships, and innovative projects that challenge the norm.
+💻 Tech Interests: Software engineering, Forward Deployed Engineering, AI/LLM Engineering, Backend Systems, Data Pipelines, Developer Tooling.<br/>
+🚀 Currently: Expanding my skills through coding projects, personal experiments, and preparing for upcoming co-op opportunities.<br/>
+🤝 Open to: Collaborations, coops/internships, and innovative projects that challenge the norm.
 
-Outside of coding, I enjoy staying curious, learning from others, and contributing to impactful communities.
-
+Outside of code, I enjoy staying curious, learning from the tech community, and building things that push me to grow as an engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahimrehan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r22rehan@uwaterloo.ca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahimrehann) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahimrehann)
