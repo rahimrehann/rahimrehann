@@ -3,7 +3,7 @@ I am a current Computing and Financial Management (CFM) student at the Universit
 
 I’m passionate about building innovative tools, learning cutting-edge technologies, and applying them to solve meaningful challenges. Whether it’s designing efficient backend systems, creating user-friendly interfaces, or exploring new technologies, I’m constantly pushing myself to grow as a developer and innovator, and I care a lot about the last mile: taking something from "it works on my machine" to something a real user actually relies on.
 
-💻 Tech Interests: Software engineering, Forward Deployed Engineering, AI/LLM Engineering, Backend Systems, Data Pipelines, Developer Tooling.<br/>
+💻 Tech Interests: Software engineering, Forward Deployed Engineering, AI/LLM Engineering, Backend Systems, Data Pipelines, etc.<br/>
 🚀 Currently: Expanding my skills through coding projects, personal experiments, and preparing for upcoming co-op opportunities.<br/>
 🤝 Open to: Collaborations, coops/internships, and innovative projects that challenge the norm.
 
